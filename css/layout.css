@@ -1,0 +1,56 @@
+@charset "UTF-8";
+#wrap{
+	width: 800px; 
+	margin: 0 auto; 
+	background-color:=;
+}
+
+footer{
+	position:static;
+	width:100%;
+	height:60px;
+	background-color: #000000;
+	clear: both;
+	float: left;
+}
+section {
+	position:static;
+	width:79%;
+	height:720px;
+	color: #0C9;
+	float:right;
+	/*border: medium solid #666D6E;*/
+}
+nav {
+	position:static;
+	width:100%;
+   	height:90px;
+	background-color:#A7ADA7;
+	float:left;
+	padding: 10px;
+}
+aside {
+	position:static;
+	width:19%;
+	height:380px;
+	background-color: #094B4E;
+	float: left;
+	margin-top: 10%;
+}
+article{
+	position: static;
+	height:100%;
+	width:100%;
+	float:right;
+	/*border: medium solid #090;*/
+}
+.imgbutton{
+	margin: 2px;
+	width:80px;
+	height: 80px;
+	display: block;
+}
+td{
+border:1px dotted black;
+padding: 10px;
+}
