@@ -11,7 +11,7 @@ footer{
 	height:60px;
 	background-color: #000000;
 	clear: both;
-	float: left;
+	float: left;color: white;
 }
 section {
 	position:static;
@@ -36,6 +36,7 @@ aside {
 	background-color: #094B4E;
 	float: left;
 	margin-top: 10%;
+	color: white;
 }
 article{
 	position: static;
